@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad 3</title>
+</head>
+<body>
+    <p>
+        Los hipervínculos deben apuntar a unas imágenes que debes descargar de internet.
+    </p>
+
+    <h2>Actividad 3</h2>
+    <p>Descarga el siguiente archivo</p>
+
+    <p>
+        Añade un índice para ir a cada una de las escenas que sean anclas.
+    </p>
+
+    <p>
+        <a href="#">Anterior</a> | <a href="#">Siguiente</a>
+    </p>
+
+    <p>
+        Esta obra está bajo una 
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+            licencia Creative Commons
+        </a>.
+    </p>
+
+    <p>¿Me invitas a un café? ☕</p>
+
+    <p>Puedes hacerlo usando el terminal:</p>
+    <pre>
+ssh customer@andros.dev -p 5555
+    </pre>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aparatox</title>
+</head>
+<body>
+    <h1>Aparatox</h1>
+    <h2>Makvook</h2>
+    <img src="makvook-image-url.jpg" alt="Imagen de Makvook" width="300">
+    <p><strong>250 euros</strong></p>
+    <h3>Descripción</h3>
+    <p>
+        Produce caprichosas descargas eléctricas. No apto para niños, adultos o mayores.
+    </p>
+</body>
+</html>

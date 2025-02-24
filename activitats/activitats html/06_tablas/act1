@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta: Mi Mejor Plato</title>
+</head>
+<body>
+    <h1>Receta: Mi Mejor Plato</h1>
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>1 pizca de perejil</li>
+        <li>500 g de harina</li>
+        <li>3 huevos</li>
+        <li>250 ml de leche</li>
+        <li>Sal al gusto</li>
+    </ul>
+
+    <h2>Instrucciones</h2>
+    <ol>
+        <li>Mezcla la harina con los huevos en un bol grande.</li>
+        <li>Añade la leche poco a poco mientras remueves.</li>
+        <li>Agrega una pizca de perejil y sal al gusto.</li>
+        <li>Cocina la mezcla en una sartén caliente hasta que esté dorada por ambos lados.</li>
+    </ol>
+
+    <img src="plato-final-url.jpg" alt="Plato final de la receta" width="300">
+
+    <footer>
+        <p>Esta obra está bajo una <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional</a>.</p>
+        <p>¿Me invitas a un café? ☕</p>
+    </footer>
+</body>
+</html>

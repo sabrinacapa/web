@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promoción de Película</title>
+</head>
+<body>
+    <h1>Película: Mi Película Favorita</h1>
+
+    <!-- Tráiler de la película -->
+    <h2>Tráiler</h2>
+    <video controls width="640">
+        <source src="trailer.mp4" type="video/mp4">
+        Tu navegador no soporta la reproducción de video.
+    </video>
+
+    <!-- Información técnica -->
+    <h2>Información Técnica</h2>
+    <table border="1">
+        <caption>Detalles de la Película</caption>
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Duración</th>
+                <th>Actores</th>
+                <th>Año</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mi Película Favorita</td>
+                <td>120 minutos</td>
+                <td>Juan Pérez, María Gómez</td>
+                <td>2025</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

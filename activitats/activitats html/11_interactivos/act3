@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Personal</title>
+</head>
+<body>
+
+    <h1>Perfil Personal</h1>
+
+    <p><strong>Nivel de conocimiento en HTML:</strong></p>
+    <meter value="80" min="0" max="100">80%</meter>
+
+    <p><strong>Conocimiento sobre Photoshop/Gimp:</strong></p>
+    <meter value="60" min="0" max="100">60%</meter>
+
+    <p><strong>Belleza:</strong></p>
+    <meter value="90" min="0" max="100">90%</meter>
+
+    <p><strong>Hambre:</strong></p>
+    <meter value="30" min="0" max="100">30%</meter>
+
+    <p><strong>Salud:</strong></p>
+    <meter value="70" min="0" max="100">70%</meter>
+
+</body>
+</html>

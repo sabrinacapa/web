@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listado de Discos de Jazz</title>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">Inicio</a> |
+        <a href="jazz.html">Jazz</a> |
+        <a href="buscador.html">Buscador</a>
+    </nav>
+
+    <h1>Listado de Discos de Jazz</h1>
+
+    <h2>Disco 1</h2>
+    <p><strong>Nombre:</strong> Kind of Blue</p>
+    <p><strong>Artista:</strong> Miles Davis</p>
+    <p><strong>Año:</strong> 1959</p>
+
+    <h2>Disco 2</h2>
+    <p><strong>Nombre:</strong> A Love Supreme</p>
+    <p><strong>Artista:</strong> John Coltrane</p>
+    <p><strong>Año:</strong> 1965</p>
+
+    <p><a href="ficha-disco.html">Ver más detalles</a></p>
+
+    <p><a href="anterior.html">Anterior</a> | <a href="siguiente.html">Siguiente</a></p>
+
+</body>
+</html>

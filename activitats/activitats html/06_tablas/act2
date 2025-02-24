@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Enemigos</title>
+</head>
+<body>
+    <h1>Mis Peores Enemigos</h1>
+    <table border="1">
+        <caption>Información de mis enemigos</caption>
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Edad</th>
+                <th>Género</th>
+                <th>¿Por qué es mi enemigo?</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Juan</td>
+                <td>Pérez</td>
+                <td>30</td>
+                <td>Masculino</td>
+                <td>Siempre llega tarde a las reuniones.</td>
+            </tr>
+            <tr>
+                <td>María</td>
+                <td>González</td>
+                <td>25</td>
+                <td>Femenino</td>
+                <td>Critica mis ideas sin razón.</td>
+            </tr>
+            <tr>
+                <td>Carlos</td>
+                <td>López</td>
+                <td>35</td>
+                <td>Masculino</td>
+                <td>No comparte sus recursos.</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

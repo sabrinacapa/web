@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor de Podcasts</title>
+</head>
+<body>
+    <h1>Mis Podcasts Favoritos</h1>
+
+    <!-- Podcast 1 -->
+    <div>
+        <h2>Episodio 1: Introducción al Podcast</h2>
+        <img src="logo1.png" alt="Logo del Podcast 1" width="100">
+        <audio controls>
+            <source src="episodio1.mp3" type="audio/mpeg">
+            Tu navegador no soporta el reproductor de audio.
+        </audio>
+        <br>
+        <a href="episodio1.mp3" download>Descargar MP3</a>
+    </div>
+    <hr>
+
+    <!-- Podcast 2 -->
+    <div>
+        <h2>Episodio 2: Entrevista Especial</h2>
+        <img src="logo2.png" alt="Logo del Podcast 2" width="100">
+        <audio controls>
+            <source src="episodio2.mp3" type="audio/mpeg">
+            Tu navegador no soporta el reproductor de audio.
+        </audio>
+        <br>
+        <a href="episodio2.mp3" download>Descargar MP3</a>
+    </div>
+    <hr>
+
+    <!-- Podcast 3 -->
+    <div>
+        <h2>Episodio 3: Reflexiones y Consejos</h2>
+        <img src="logo3.png" alt="Logo del Podcast 3" width="100">
+        <audio controls>
+            <source src="episodio3.mp3" type="audio/mpeg">
+            Tu navegador no soporta el reproductor de audio.
+        </audio>
+        <br>
+        <a href="episodio3.mp3" download>Descargar MP3</a>
+    </div>
+    <hr>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+    <h1>Curriculum Vitae</h1>
+
+    <!-- Imagen -->
+    <section>
+        <h2>Imagen</h2>
+        <img src="https://via.placeholder.com/150" alt="Foto de perfil" width="150">
+    </section>
+
+    <!-- Datos básicos -->
+    <section>
+        <h2>Datos Básicos</h2>
+        <ul>
+            <li>Nombre: Juan Pérez</li>
+            <li>Edad: 30 años</li>
+            <li>Dirección: Calle Falsa 123, Ciudad</li>
+            <li>Email: juan.perez@email.com</li>
+            <li>Teléfono: +34 600 123 456</li>
+        </ul>
+    </section>
+
+    <!-- Experiencia -->
+    <section>
+        <h2>Experiencia</h2>
+        <ul>
+            <li>Desarrollador Web en Empresa XYZ (2018 - 2022)</li>
+            <li>Analista de Datos en Empresa ABC (2015 - 2018)</li>
+            <li>Practicante en Startup LMN (2013 - 2015)</li>
+        </ul>
+    </section>
+
+    <!-- Habilidades -->
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Programación en HTML, CSS y JavaScript</li>
+            <li>Análisis de datos</li>
+            <li>Gestión de proyectos</li>
+            <li>Trabajo en equipo</li>
+        </ul>
+    </section>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscar Cámaras de Fotos</title>
+</head>
+<body>
+    <h1>Buscar Cámaras de Fotos</h1>
+    <form action="buscar_camaras.php" method="get">
+        <!-- Marca -->
+        <label for="marca">Marca:</label>
+        <select id="marca" name="marca">
+            <option value="">Seleccione una marca</option>
+            <option value="canon">Canon</option>
+            <option value="nikon">Nikon</option>
+            <option value="sony">Sony</option>
+            <option value="fuji">Fujifilm</option>
+            <option value="otra">Otra</option>
+        </select>
+        <br><br>
+
+        <!-- Resolución mínima (en megapíxeles) -->
+        <label for="resolucion">Resolución mínima (MP):</label>
+        <input type="number" id="resolucion" name="resolucion" placeholder="Ej: 12" min="1">
+        <br><br>
+
+        <!-- Tipo de cámara -->
+        <label for="tipo">Tipo de cámara:</label>
+        <select id="tipo" name="tipo">
+            <option value="">Seleccione un tipo</option>
+            <option value="dslr">DSLR</option>
+            <option value="mirrorless">Mirrorless</option>
+            <option value="compacta">Compacta</option>
+            <option value="instantanea">Instantánea</option>
+        </select>
+        <br><br>
+
+        <!-- Rango de precio -->
+        <label for="precio_min">Precio mínimo ($):</label>
+        <input type="number" id="precio_min" name="precio_min" placeholder="Ej: 200" min="0">
+        <br><br>
+        <label for="precio_max">Precio máximo ($):</label>
+        <input type="number" id="precio_max" name="precio_max" placeholder="Ej: 1000" min="0">
+        <br><br>
+
+        <!-- Botón de búsqueda -->
+        <button type="submit">Buscar</button>
+    </form>
+</body>
+</html>

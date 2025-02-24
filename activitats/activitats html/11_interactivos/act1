@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuadro Famoso</title>
+</head>
+<body>
+
+    <h1>Información sobre un cuadro famoso</h1>
+
+    <details>
+        <summary>¿Cómo se llama el cuadro?</summary>
+        <p>El cuadro se llama <strong>La Mona Lisa</strong>.</p>
+    </details>
+
+    <details>
+        <summary>¿Quién es el autor?</summary>
+        <p>El autor es <strong>Leonardo da Vinci</strong>.</p>
+    </details>
+
+    <details>
+        <summary>¿Cuándo fue pintado?</summary>
+        <p>Se cree que fue pintado entre <abbr title="Año 1503 a 1506">1503 y 1506</abbr>.</p>
+    </details>
+
+    <details>
+        <summary>¿Dónde se encuentra?</summary>
+        <p>Actualmente se encuentra en el <abbr title="Museo del Louvre en París">Museo del Louvre</abbr>.</p>
+    </details>
+
+</body>
+</html>

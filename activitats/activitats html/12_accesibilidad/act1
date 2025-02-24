@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad 1</title>
+</head>
+<body>
+
+    <h1>Actividad 1</h1>
+    <p>En el inspector de elementos, existe una pestaña llamada <strong>Accessibility</strong> que te permite ver cómo se ve tu web para un lector de pantalla.</p>
+    <p>Actívala y comprueba navegando por algunas de tus webs favoritas. ¿Son accesibles? ¿Qué podrían mejorar?</p>
+
+    <nav>
+        <a href="index.html">Volver al inicio</a> | <a href="actividad2.html">Siguiente actividad</a>
+    </nav>
+
+</body>
+</html>

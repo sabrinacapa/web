@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artículo de Periódico</title>
+</head>
+<body>
+    <h1>Título del Artículo</h1>
+    <p><strong>Autor:</strong> Nombre del Autor</p>
+    <p><strong>Fecha de Publicación:</strong> 3 de febrero de 2025</p>
+
+    <h2>Artículo</h2>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. 
+        Fusce nec odio ut velit efficitur tincidunt. Suspendisse potenti. 
+        Sed at quam vel eros gravida eleifend ut non quam.
+    </p>
+
+    <h2>Comentarios</h2>
+    <p><strong>Usuario1:</strong> Muy interesante el artículo.</p>
+    <p><strong>Usuario2:</strong> Me gustaría más información sobre el tema.</p>
+</body>
+</html>
